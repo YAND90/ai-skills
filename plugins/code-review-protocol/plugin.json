@@ -1,0 +1,9 @@
+{
+  "name": "code-review-protocol",
+  "version": "1.0.0",
+  "description": "Mandatory Goldfish and Elephant code review protocol before finalizing implementation.",
+  "author": {
+    "name": "User"
+  },
+  "license": "MIT"
+}
